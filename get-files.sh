@@ -2,7 +2,7 @@
 
 # Variables
 REPO_URL="https://github.com/mleach8948/testFiles"
-FILE_PATH="HPE Logo (Small).png"
+FILE_PATH="test-file-1.txt"
 DESTINATION="/home/matthew/HPE Logo (Small).png"
 
 # Clone the repository (shallow clone to save time and space)
