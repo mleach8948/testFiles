@@ -3,7 +3,7 @@
 # Variables
 REPO_URL="https://github.com/mleach8948/testFiles"
 FILE_PATH="test-file-1.txt"
-DESTINATION="/home/matthew/HPE Logo (Small).png"
+DESTINATION="/home/matthew/test-file-1.txt"
 
 # Clone the repository (shallow clone to save time and space)
 git clone --depth 1 $REPO_URL temp_repo
